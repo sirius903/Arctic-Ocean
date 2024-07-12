@@ -1,0 +1,138 @@
+[
+    {
+        "ratio" : [3, 2],
+        "v" : 0.2,
+        "wave" : 5,
+        "src" : "뽀로로"
+    },{
+        "ratio" : [3, 2],
+        "v" : 0.2,
+        "wave" : 5,
+        "src" : "PolarBear01"
+    },{
+        "ratio" : [2, 1],
+        "v" : -0.05,
+        "wave" : 3,
+        "src" : "PolarBear02"
+    },{
+        "ratio" : [2, 1],
+        "v" : 0.3,
+        "wave" : 5,
+        "src" : "PolarFox"
+    },{
+        "ratio" : [1, 1],
+        "v" : 0.2,
+        "wave" : 5,
+        "src" : "Glacier01"
+    },{
+        "ratio" : [1, 1],
+        "v" : 0.2,
+        "wave" : 5,
+        "src" : "Glacier02"
+    },{
+        "ratio" : [1, 1],
+        "v" : 0.2,
+        "wave" : 5,
+        "src" : "Glacier03"
+    },{
+        "ratio" : [1, 1],
+        "v" : 0.4,
+        "wave" : 5,
+        "src" : "Coke01"
+    },{
+        "ratio" : [1, 1],
+        "v" : 0.4,
+        "wave" : 5,
+        "src" : "Coke02"
+    },{
+        "ratio" : [1, 1],
+        "v" : 0.675,
+        "wave" : 5,
+        "src" : "GrayWhale"
+    },{
+        "ratio" : [1, 1],
+        "v" : 0.375,
+        "wave" : 5,
+        "src" : "BowheadWhale"
+    },{
+        "ratio" : [1, 1],
+        "v" : -1.1,
+        "wave" : 2,
+        "src" : "Orca"
+    },{
+        "ratio" : [1, 1],
+        "v" : 0.45,
+        "wave" : 5,
+        "src" : "BelugaWhale"
+    },{
+        "ratio" : [3, 1],
+        "v" : 0.9,
+        "wave" : 5,
+        "src" : "Narwhal"
+    },{
+        "ratio" : [1, 1],
+        "v" : 0.2,
+        "wave" : 5,
+        "src" : "FurSeal"
+    },{
+        "ratio" : [1, 1],
+        "v" : 0.2,
+        "wave" : 5,
+        "src" : "Walrus"
+    },{
+        "ratio" : [1, 1],
+        "v" : 0.2,
+        "wave" : 5,
+        "src" : "EarlessSeal"
+    },{
+        "ratio" : [1, 1],
+        "v" : 0.08,
+        "wave" : 5,
+        "src" : "GreenlandShark"
+    },{
+        "ratio" : [3, 2],
+        "v" : 0.6,
+        "wave" : 5,
+        "src" : "Sardine"
+    },{
+        "ratio" : [3, 2],
+        "v" : -0.4,
+        "wave" : 5,
+        "src" : "PacificSaury"
+    },{
+        "ratio" : [3, 2],
+        "v" : 0.4,
+        "wave" : 5,
+        "src" : "Cod"
+    },{
+        "ratio" : [3, 2],
+        "v" : -0.5,
+        "wave" : 5,
+        "src" : "Salmon"
+    },{
+        "ratio" : [3, 2],
+        "v" : -0.3,
+        "wave" : 5,
+        "src" : "Mackerel"
+    },{
+        "ratio" : [3, 2],
+        "v" : 0.2,
+        "wave" : 5,
+        "src" : "SaltedMackerel"
+    },{
+        "ratio" : [3, 2],
+        "v" : -1.2,
+        "wave" : 5,
+        "src" : "Arctic Tern"
+    },{
+        "ratio" : [3, 2],
+        "v" : -1.4,
+        "wave" : 4,
+        "src" : "CommonGuillemot"
+    },{
+        "ratio" : [3, 2],
+        "v" : -1,
+        "wave" : 2,
+        "src" : "RockPtarmigan"
+    }
+]
